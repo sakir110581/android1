@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="halloBangladesh">Hello Bangladesh</string>
+    <string name="helloWorld">Hello World</string>
+    <string name="iAmHere">I\'m here</string>
+    <string name="anything">I can do anything</string>
+</resources>
